@@ -1,0 +1,1 @@
+正点原子H750APP程序模板，该文件里面Drivers\CMSIS和Drivers\STM32H7xx_HAL_Driver没有上传到github需要使用cubemx生成
