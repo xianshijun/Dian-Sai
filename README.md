@@ -1,1 +1,3 @@
+注意事项
 正点原子H750APP程序模板，该文件里面Drivers\CMSIS和Drivers\STM32H7xx_HAL_Driver没有上传到github需要使用cubemx生成
+ATK-DNH750_QSPI_W25Q64JV.FLM是正点原子提供的外部下载算法，适配核心板。如果是其他板子需要自己制作外部下载算法，可参考安富莱。
